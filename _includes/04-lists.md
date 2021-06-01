@@ -1,4 +1,4 @@
 # SOME GOOD READS 📚
-* inferno
-* immortals of meluha
-* heroes of olympus
+* _inferno_
+* _immortals of meluha_
+* _heroes of olympus_
