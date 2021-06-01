@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+list of books i like 📚
+* inferno
+* immortals of meluha
+* heroes of olympus
